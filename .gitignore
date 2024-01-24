@@ -1,1 +1,5 @@
 .env
+directory.html
+l_amat/
+__pycache__
+*.db
