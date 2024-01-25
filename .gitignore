@@ -3,3 +3,5 @@ directory.html
 l_amat/
 __pycache__
 *.db
+*.log
+report.txt
