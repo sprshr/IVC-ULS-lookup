@@ -39,7 +39,7 @@ for child in doc.div.children:
             elif text[0] == "Division":
                 division = text[1]
             elif text[0] == "Work Space":
-                word_space = text[1]
+                work_space = text[1]
             elif text[0] == "Phone":
                 phone = text[1]
     with conn:
